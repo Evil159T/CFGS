@@ -1,0 +1,4 @@
+﻿  pruebas.cpp
+E:\AluCiclesGS1\PSM\Programacio\pruebas\pruebas\pruebas.cpp(6,6): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+E:\AluCiclesGS1\PSM\Programacio\pruebas\pruebas\pruebas.cpp(16,17): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  pruebas.vcxproj -> E:\AluCiclesGS1\PSM\Programacio\pruebas\x64\Debug\pruebas.exe

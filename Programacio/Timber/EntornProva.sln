@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EntornProva", "EntornProva\EntornProva.vcxproj", "{5FAF15CF-8D05-4491-B219-702B745254A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Debug|x64.ActiveCfg = Debug|x64
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Debug|x64.Build.0 = Debug|x64
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Debug|x86.Build.0 = Debug|Win32
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Release|x64.ActiveCfg = Release|x64
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Release|x64.Build.0 = Release|x64
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Release|x86.ActiveCfg = Release|Win32
+		{5FAF15CF-8D05-4491-B219-702B745254A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {089C121A-5F65-41FB-A4FB-A82CEC9AF797}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,3 @@
+﻿  randomnumconso.cpp
+E:\AluCiclesGS1\PSM\Programacio\randomnumconso\randomnumconso\randomnumconso.cpp(9,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  randomnumconso.vcxproj -> E:\AluCiclesGS1\PSM\Programacio\randomnumconso\x64\Debug\randomnumconso.exe

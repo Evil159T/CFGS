@@ -1,0 +1,10 @@
+﻿  EntornProva.cpp
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(123,42): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(345,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(381,34): warning C4244: '+=': conversión de 'double' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(460,30): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(461,48): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(483,36): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(484,53): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+E:\AluCiclesGS1\PSM\Programacio\Timber2\EntornProva\EntornProva.cpp(509,17): warning C4244: 'inicializando': conversión de 'int' a 'float'; posible pérdida de datos
+  EntornProva.vcxproj -> E:\AluCiclesGS1\PSM\Programacio\Timber2\Debug\EntornProva.exe

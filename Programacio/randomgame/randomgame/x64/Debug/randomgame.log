@@ -1,0 +1,3 @@
+﻿  randomgame.cpp
+E:\AluCiclesGS1\PSM\Programacio\randomgame\randomgame\randomgame.cpp(7,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  randomgame.vcxproj -> E:\AluCiclesGS1\PSM\Programacio\randomgame\x64\Debug\randomgame.exe
